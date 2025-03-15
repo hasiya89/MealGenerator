@@ -1,0 +1,26 @@
+Folder PATH listing for volume Windows
+Volume serial number is 149E-782E
+C:.
+│   structure.txt
+│   
+└───example
+    └───mealgenerator
+        │   InfoScreen.kt
+        │   MainActivity.kt
+        │   
+        ├───model
+        │       Meal.kt
+        │       
+        ├───network
+        │       MealApiService.kt
+        │       RetrofitInstance.kt
+        │       
+        ├───ui
+        │   └───theme
+        │           Color.kt
+        │           Theme.kt
+        │           Type.kt
+        │           
+        └───viewModel
+                MealViewModel.kt
+                
