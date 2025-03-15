@@ -19,6 +19,7 @@ This app generates random meals using TheMealDB API. It follows the MVVM archite
 3. Build and run the app on an emulator or physical device.
 
 ## Video Demo
+https://youtu.be/xYinYCVuha0?si=bxUxWhbknIOXlOo5
 
 
 ## Notes
